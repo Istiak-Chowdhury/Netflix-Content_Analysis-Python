@@ -1,6 +1,6 @@
 # 📊 Netflix Content Analysis with Python
 
-## Project Objective
+## 🎯 Project Objective
 
 This project aims to clean and analyze the Netflix content dataset to uncover key insights about its offerings. By identifying the top directors, popular genres, and content types, the analysis highlights important trends in Netflix’s library. The project includes visualizing these trends using clear and informative charts to support better understanding of content distribution. The work also focuses on creating a reproducible, well-documented analysis that can be easily shared and updated in the future.
 
@@ -37,10 +37,10 @@ This dataset was obtained from **Kaggle**. The dataset used is `netflix_data.csv
 
 ## 🛠️ Libraries Used
 
-- pandas
-- numpy
-- matplotlib
-- seaborn
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
 
 ---
 
