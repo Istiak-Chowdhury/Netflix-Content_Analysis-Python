@@ -49,23 +49,30 @@ The dataset used is `netflix_data.csv`, containing details about Netflix content
 ### ✅ Content Type vs Rating Count Plot
 ![image alt](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/type_vs_rating.jpeg?raw=true)
 
+
 ### ✅ Ratings Distribution Pie Chart
 ![image alt](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Rating_Movie%20&%20TV%20Show_Combindly.jpeg?raw=true)
+
 
 ### ✅ Top 10 Movie Genres
 ![image alt](https://github.com/user-attachments/assets/e40f97e9-fd0c-43af-9ecf-b0014b2c7d5b)
 
+
 ### ✅ Top 10 TV Show Genres
 ![image alt](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Number%20of%20TV%20Show%20Released%20by%20year.jpeg?raw=true)
+
 
 ### ✅ Count Plot By Rating
 ![image alt](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Rating_Plot.jpeg?raw=true)
 
+
 ### ✅ Number of Movies Released by Year
 ![image alt](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Number%20of%20Movies%20Released%20by%20year.jpeg?raw=true)
 
+
 ### ✅ Top 5 Directors
 ![image alt](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Top%205%20Directors%20by%20Total%20Content.jpeg?raw=true)
+
 
 --
 
