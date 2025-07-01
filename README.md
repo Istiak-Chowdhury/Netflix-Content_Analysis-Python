@@ -4,7 +4,7 @@
 
 This project aims to clean and analyze the Netflix content dataset to uncover key insights about its offerings. By identifying the top directors, popular genres, and content types, the analysis highlights important trends in Netflix’s library. The project includes visualizing these trends using clear and informative charts to support better understanding of content distribution. The work also focuses on creating a reproducible, well-documented analysis that can be easily shared and updated in the future.
 
---
+---
 
 ## 📁 Dataset
 
@@ -21,7 +21,7 @@ This dataset was obtained from **Kaggle**. The dataset used is `netflix_data.csv
 - Duration
 - Genres
 
---
+---
 
 ## 📌 Key Features of the Analysis
 
@@ -33,7 +33,7 @@ This dataset was obtained from **Kaggle**. The dataset used is `netflix_data.csv
 - Top contributing directors and countries  
 - Visualizations using Matplotlib and Seaborn
 
---
+---
 
 ## 🛠️ Libraries Used
 
@@ -42,7 +42,7 @@ This dataset was obtained from **Kaggle**. The dataset used is `netflix_data.csv
 - matplotlib
 - seaborn
 
---
+---
 
 ## 📈 Visualizations
 
@@ -74,7 +74,7 @@ This dataset was obtained from **Kaggle**. The dataset used is `netflix_data.csv
 ![image alt](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Top%205%20Directors%20by%20Total%20Content.jpeg?raw=true)
 
 
---
+---
 
 ## 📷 Visual Examples
 
@@ -84,7 +84,7 @@ The project includes visualizations like:
 - Line plots of content over time  
 - Pie charts showing distribution of content types  
 
---
+---
 
 ## ▶️ How to Run
 
