@@ -46,7 +46,7 @@ https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/ty
 https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Rating_Movie%20&%20TV%20Show_Combindly.jpeg?raw=true
 
 ### ✅ Top 10 Movie Genres
-(https://github.com/user-attachments/assets/e40f97e9-fd0c-43af-9ecf-b0014b2c7d5b)
+[(https://github.com/user-attachments/assets/e40f97e9-fd0c-43af-9ecf-b0014b2c7d5b)](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/fa2b13f4fdabb603b5886c6c23a809f50d77be3a/Top%2010%20Genres%20of%20Movies.jpeg)
 
 
 ### ✅ Top 10 TV Show Genres
