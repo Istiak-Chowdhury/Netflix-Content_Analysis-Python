@@ -41,6 +41,7 @@ This dataset was obtained from **Kaggle**. The dataset used is `netflix_data.csv
 - Numpy
 - Matplotlib
 - Seaborn
+- Jupiter Notebook
 
 ---
 
@@ -73,9 +74,7 @@ This dataset was obtained from **Kaggle**. The dataset used is `netflix_data.csv
 ### ✅ Top 5 Directors
 ![image alt](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Top%205%20Directors%20by%20Total%20Content.jpeg?raw=true)
 
-
 ---
-
 
 ## Conclusion
 - The top 5 directors contribute a large portion of Netflix’s content.  
@@ -83,6 +82,13 @@ This dataset was obtained from **Kaggle**. The dataset used is `netflix_data.csv
 - Content distribution highlights key contributors to Netflix’s library.  
 - Insights can guide decisions for future content acquisition.  
 - The analysis lays groundwork for further exploration of Netflix trends.
+
+---
+
+## Future Work
+- Incorporate viewer ratings and user reviews to analyze content popularity and quality.
+- Explore regional and language-specific trends within Netflix’s catalog.
+- Apply machine learning models to predict trending genres or recommend content.
 
 ---
 
