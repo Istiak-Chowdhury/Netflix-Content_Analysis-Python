@@ -46,7 +46,7 @@ This dataset was obtained from **Kaggle**. The dataset used is `netflix_data.csv
 
 ---
 
-## 📈 Visualizations
+## 📈 Analysis Visualizations
 
 ### ✅ Content Type vs Rating Count Plot
 ![image alt](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/type_vs_rating.jpeg?raw=true)
