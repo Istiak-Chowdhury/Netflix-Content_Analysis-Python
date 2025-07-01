@@ -40,7 +40,7 @@ The dataset used is `netflix_data.csv`, containing details about Netflix content
 ## 📈 Visualizations
 
 ### ✅ Content Type vs Rating Count Plot
-![Type vs Rating](images/type_vs_rating.jpeg)
+![Type vs Rating](C:\Users\Administrator\Desktop\Python\Netflix\images\type_vs_rating.jpeg)
 
 ### ✅ Count Plot By Rating
 ![Type vs Rating](type_vs_rating.jpeg)
