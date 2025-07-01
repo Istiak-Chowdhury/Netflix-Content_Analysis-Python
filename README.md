@@ -35,8 +35,9 @@ This dataset was obtained from **Kaggle**. The dataset used is `netflix_data.csv
 
 ---
 
-## 🛠️ Libraries Used
+## 🛠️ Technologies Used
 
+- Python 3.x
 - Pandas
 - Numpy
 - Matplotlib
