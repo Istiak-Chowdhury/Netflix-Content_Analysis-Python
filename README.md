@@ -40,7 +40,7 @@ The dataset used is `netflix_data.csv`, containing details about Netflix content
 ## 📈 Visualizations
 
 ### ✅ Content Type vs Rating Count Plot
-https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/type_vs_rating.jpeg?raw=true
+![image alt](image_url)(https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/type_vs_rating.jpeg?raw=true)
 
 ### ✅ Ratings Distribution Pie Chart
 https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Rating_Movie%20&%20TV%20Show_Combindly.jpeg?raw=true
