@@ -8,7 +8,7 @@ This project aims to clean and analyze the Netflix content dataset to uncover ke
 
 ## 📁 Dataset
 
-This dataset was obtained from #Kaggle. The dataset used is `netflix_data.csv`, containing details about Netflix content such as:
+This dataset was obtained from **Kaggle**. The dataset used is `netflix_data.csv`, containing details about Netflix content such as:
 - Show_Id
 - Type
 - Title
