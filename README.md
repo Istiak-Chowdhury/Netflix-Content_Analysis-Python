@@ -2,6 +2,10 @@
 
 ## Project Objective
 
+This project aims to clean and analyze the Netflix content dataset to uncover key insights about its offerings. By identifying the top directors, popular genres, and content types, the analysis highlights important trends in Netflix’s library. The project includes visualizing these trends using clear and informative charts to support better understanding of content distribution. The work also focuses on creating a reproducible, well-documented analysis that can be easily shared and updated in the future.
+
+--
+
 ## 📁 Dataset
 
 The dataset used is `netflix_data.csv`, containing details about Netflix content such as:
@@ -17,6 +21,7 @@ The dataset used is `netflix_data.csv`, containing details about Netflix content
 - Duration
 - Genres
 
+--
 
 ## 📌 Key Features of the Analysis
 
@@ -28,6 +33,7 @@ The dataset used is `netflix_data.csv`, containing details about Netflix content
 - Top contributing directors and countries  
 - Visualizations using Matplotlib and Seaborn
 
+--
 
 ## 🛠️ Libraries Used
 
@@ -36,6 +42,7 @@ The dataset used is `netflix_data.csv`, containing details about Netflix content
 - matplotlib
 - seaborn
 
+--
 
 ## 📈 Visualizations
 
@@ -43,25 +50,24 @@ The dataset used is `netflix_data.csv`, containing details about Netflix content
 ![image alt](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/type_vs_rating.jpeg?raw=true)
 
 ### ✅ Ratings Distribution Pie Chart
-https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Rating_Movie%20&%20TV%20Show_Combindly.jpeg?raw=true
+![image alt](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Rating_Movie%20&%20TV%20Show_Combindly.jpeg?raw=true)
 
 ### ✅ Top 10 Movie Genres
-[(https://github.com/user-attachments/assets/e40f97e9-fd0c-43af-9ecf-b0014b2c7d5b)](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/fa2b13f4fdabb603b5886c6c23a809f50d77be3a/Top%2010%20Genres%20of%20Movies.jpeg)
-
+![image alt](https://github.com/user-attachments/assets/e40f97e9-fd0c-43af-9ecf-b0014b2c7d5b)
 
 ### ✅ Top 10 TV Show Genres
-
+![image alt](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Number%20of%20TV%20Show%20Released%20by%20year.jpeg?raw=true)
 
 ### ✅ Count Plot By Rating
-
+![image alt](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Rating_Plot.jpeg?raw=true)
 
 ### ✅ Number of Movies Released by Year
-
+![image alt](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Number%20of%20Movies%20Released%20by%20year.jpeg?raw=true)
 
 ### ✅ Top 5 Directors
+![image alt](https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Top%205%20Directors%20by%20Total%20Content.jpeg?raw=true)
 
-
-
+--
 
 ## 📷 Visual Examples
 
@@ -70,6 +76,8 @@ The project includes visualizations like:
 - Bar charts of top genres  
 - Line plots of content over time  
 - Pie charts showing distribution of content types  
+
+--
 
 ## ▶️ How to Run
 
