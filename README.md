@@ -40,25 +40,26 @@ The dataset used is `netflix_data.csv`, containing details about Netflix content
 ## 📈 Visualizations
 
 ### ✅ Content Type vs Rating Count Plot
-![Type vs Rating]([C:\Users\Administrator\Desktop\Python\Netflix\images\type_vs_rating.jpeg])
-
-### ✅ Count Plot By Rating
-![Type vs Rating](type_vs_rating.jpeg)
+https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/type_vs_rating.jpeg?raw=true
 
 ### ✅ Ratings Distribution Pie Chart
-![Ratings Distribution](Rating_Movie & TV Show_Combindly.jpeg)
+https://github.com/Istiak-Chowdhury/Netflix-Content_Analysis-Python/blob/main/Rating_Movie%20&%20TV%20Show_Combindly.jpeg?raw=true
 
 ### ✅ Top 10 Movie Genres
-![Movie Genres](images/top_movie_genres.jpeg)
+(https://github.com/user-attachments/assets/e40f97e9-fd0c-43af-9ecf-b0014b2c7d5b)
+
 
 ### ✅ Top 10 TV Show Genres
-![TV Show Genres](images/top_tv_genres.jpeg)
+
+
+### ✅ Count Plot By Rating
+
 
 ### ✅ Number of Movies Released by Year
-![Movies by Year](images/movies_by_year.jpeg)
+
 
 ### ✅ Top 5 Directors
-![Top Directors](images/top_directors.jpeg)
+
 
 
 
